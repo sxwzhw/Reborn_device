@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nitro 设置</string>
+
+    <string name="category_backlightdisable_title">按键灯</string>
+    <string name="backlightdisable_title_head">关闭按键灯</string>
+    <string name="backlightdisable_summary_head">关闭电容按键灯</string>
+
+    <string name="category_sdcard_cache_title">SD 卡</string>
+    <string name="sdcard_cache_title_head">SD 卡缓存大小</string>
+    <string name="sdcard_cache_summary_head">选择 SDCard 卡缓存大小改善读写速度</string>
+
+    <string name="category_wifi_pm_title">WiFi</string>
+    <string name="wifi_pm_title_head">WiFi 控制</string>
+    <string name="wifi_pm_summary_head">选择高速 WIFI 模式</string>
+	
+    <string name="category_blx_title">BLX</string>
+    <string name="blx_title_head">Battery Life eXtender</string>
+    <string name="blx_summary_head">电池容量限制</string>
+
+    <string name="category_screen_title">传感器</string>
+    <string name="g_sensor_title">水平校准</string>
+    <string name="g_sensor_summary">使用水平加速度计校准</string>
+    <string name="gsensor_ready">将设备放置在水平表面上，然后点击校准</string>
+    <string name="gsensor_calibrating">校准中。请勿移动设备。请稍候...</string>
+    <string name="gsensor_nofile">无法找到文件偏移量. 请重试</string>
+    <string name="gsensor_end">已校准</string>
+    <string name="gsensor_button1">完成</string>
+    <string name="gsensor_button2">校准</string>
+
+    <string name="cpu_title">CPU 统计</string>
+    <string name="cpu_summary">高级 CPU 统计</string>
+
+</resources>
